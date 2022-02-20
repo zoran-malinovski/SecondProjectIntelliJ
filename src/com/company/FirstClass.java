@@ -7,6 +7,7 @@ public class FirstClass {
         System.out.println("Best Regards for" + ":");
         firstPerson("Zoran " + "Malinovski");
         secondPerson("Zlatko " + "Kalinski");
+        thirdPerson("Maradona");
 
     }
 
@@ -16,6 +17,10 @@ public class FirstClass {
     }
 
     public static void secondPerson(String name){
+        System.out.println("Mr. " +name);
+    }
+
+    public static void thirdPerson(String name){
         System.out.println("Mr. " +name);
     }
 
