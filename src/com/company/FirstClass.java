@@ -7,7 +7,7 @@ public class FirstClass {
         System.out.println("Best Regards for" + ":");
         firstPerson("Zoran " + "Malinovski");
         secondPerson("Zlatko " + "Kalinski");
-        thirdPerson("Diego Armando" + "Maradona");
+        thirdPerson("Diego Armando"+ "Maradona");
 
     }
 
